@@ -2,12 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f1a,100:2e8b6e&height=150&section=header&text=NAZAR%20MISKIV&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Senior%20Full-Stack%20Developer&descSize=16&descAlignY=65" alt="Nazar Miskiv banner" width="100%" />
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=2E8B6E&center=true&vCenter=true&width=480&lines=TypeScript+%2B+React+%2B+Next.js;NestJS+%2B+PostgreSQL+%2B+Redis;payments%2C+auth%2C+performance" alt="Typing SVG" />
+<a href="https://github.com/Nazar-Miskiv2C+auth%2C+performance" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-nazar--miskiv-0a0a0a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nazar-miskiv/)
-[![Email](https://img.shields.io/badge/email-contact-0a0a0a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@example.com)
+[![Email](https://img.shields.io/badge/email-contact-0a0a0a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:nazarmiskiv3@gmail.com)
 ![Remote](https://img.shields.io/badge/remote-EU%2FUS-0a0a0a?style=flat-square)
 
 </div>
@@ -73,22 +72,14 @@ e4a771b  refactor: legacy SPA -> SSR, ~35% faster loads
 2020-02 -> 2021-05   Infopulse    Junior Full-Stack Developer
 ```
 
-<br/>
-
-## `./stats`
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2e8b6e&icon_color=2e8b6e" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2e8b6e" alt="Top languages" />
-</p>
 
 <br/>
 
 ## `contact`
 
 ```bash
-> linkedin : linkedin.com/in/nazar-miskiv
-> email    : YOUR_EMAIL@example.com
+> linkedin : www.linkedin.com/in/nazar-miskiv
+> email    : nazarmiskiv3@gmail.com
 > status   : open to work, remote (EU/US)
 ```
 
